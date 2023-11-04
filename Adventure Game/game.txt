@@ -1,0 +1,2 @@
+This is a text based Adventure game where you are a student at Hogwarts school Witchcraft and Wizardary, You have been dared to explore the Forbidden Forest, 
+Your goal is to find and retrieve a rare magical object hidden deep within the forest. You are going to face some challenges on your way finding the magical object.
